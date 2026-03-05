@@ -1,6 +1,6 @@
 # Análise de Acervo Histórico - The Metropolitan Museum of Art (The Met)
 
-##Visão Geral do Projeto
+## Visão Geral do Projeto
 O objetivo principal foi transformar um grande volume de dados não estruturados em um painel executivo direto e acionável, cobrindo todo o ciclo de vida dos dados: da extração à camada de apresentação visual.
 
 ##  Stack Tecnológica
@@ -19,7 +19,7 @@ O objetivo principal foi transformar um grande volume de dados não estruturados
 3. **Carga:** Exportação da base higienizada para um novo formato CSV otimizado para a ferramenta de BI.
 4. **Visualização:** Construção de um Dashboard interativo no Power BI utilizando filtros de "Top N" e melhores práticas de Storytelling com Dados e UI/UX.
 
-## 📊 O Dashboard Visual
+##  O Dashboard Visual
 ![Dashboard do Met Museum](dashboard_met.png)
 
 ## Principais Insights Analíticos
